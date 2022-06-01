@@ -30,7 +30,7 @@ function Library.CreateMain()
 		TextButton.Position = UDim2.new(0.25, 0, 0.357615888, 0)
 		TextButton.Size = UDim2.new(0, 200, 0, 50)
 		TextButton.Font = Enum.Font.SourceSans
-		TextButton.Text = "TextButton"
+		TextButton.Text = "TextBox"
 		TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
 		TextButton.TextSize = 14.000
 		
